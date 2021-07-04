@@ -1,2 +1,2 @@
 # basicstructure-html
-HTML Basics Structure
+Here you will find the basic HTML structure.
